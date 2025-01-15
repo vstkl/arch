@@ -126,3 +126,9 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+gnome
+gdm
+networkmanager
+polkit
+git
+base-devel
