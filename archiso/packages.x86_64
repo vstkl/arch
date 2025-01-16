@@ -158,4 +158,4 @@ apple-t2-audio-config
 apple-bcm-firmware
 efibootmgr
 tiny-dfr
-t2fanrd 
+#t2fanrd 

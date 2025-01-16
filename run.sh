@@ -1,1 +1,1 @@
-run_archiso -i ./out/archiso.iso
+run_archiso -i ./out/vstklinux.iso
